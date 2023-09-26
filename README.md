@@ -25,7 +25,7 @@ Hi! My name is Ilya. I am a software engineer in petroleum company
 | **Database** | `SoQoL` |  | `Postgresql` `ClickHouse` |
 | **Fronend** |  | `React` | `HTML` `css` `JS` `TS` `Angular` `Highcharts` `AG Grid` |
 | **DevOps** |  `Jenkins` `Kubernetes` `OpenShift` | `Docker` |  |
-| **Integrations** | `RabbitMQ` |  | `Apache Kafka` |
+| **Integrations** | `RabbitMQ` |  | `Apache Kafka` `Apache Airflow` |
 
 ### 🎓 Educations
 1. 2017-2021; Ufa State Aviation Technical University, Computer science and engineering, Bachelor's degree in Computer science
