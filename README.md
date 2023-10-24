@@ -21,9 +21,9 @@ Hi! My name is Ilya. I am a software engineer in petroleum company
 
 |  | **I plan to study** | **I study** | **I use it in my work** |
 |-|-|-|-|
-| **Baskend** | `Entity Framework`  `LINQ to DB` | `Python` `FastAPI` | `C#` `.NET Core` `ASP.NET` `Dapper` `LINQ` `NUnit`|
+| **Backend** | `Entity Framework`  `LINQ to DB` | `Python` `FastAPI` | `C#` `.NET Core` `ASP.NET` `Dapper` `LINQ` `NUnit`|
 | **Database** | `SoQoL` |  | `Postgresql` `ClickHouse` |
-| **Fronend** |  | `React` | `HTML` `css` `JS` `TS` `Angular` `Highcharts` `AG Grid` |
+| **Fronend** |  | `React` | `HTML` `css` `JavaScript` `TypeScript` `Angular` `Highcharts` `AG Grid` `RxJS` |
 | **DevOps** |  `Jenkins` `Kubernetes` `OpenShift` | `Docker` |  |
 | **Integrations** | `RabbitMQ` |  | `Apache Kafka` `Apache Airflow` |
 
